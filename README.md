@@ -2,7 +2,7 @@
 
 > A Vue.js Charity Ledger Explorer Client
 
-Client used Charity Ledger Explorer API
+The client uses Charity Ledger Explorer API
 
 https://github.com/1p1-lab/charity-ledger-explorer-api
 
